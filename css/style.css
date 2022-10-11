@@ -3,7 +3,11 @@ body {
     font-family: '';
     background-color: #00CED1;
     color: white;
-  position: absolute;
+  
+}
+
+logo {
+position: absolute;
   margin: auto;
   text-align: center;
   height: 100px;
@@ -18,7 +22,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
 
 }
 
