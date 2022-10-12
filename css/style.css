@@ -3,11 +3,7 @@ body {
     font-family: '';
     background-color: #00CED1;
     color: white;
-  
-}
-
-logo {
-position: absolute;
+  position: absolute;
   margin: auto;
   text-align: center;
   height: 100px;
@@ -23,7 +19,11 @@ position: absolute;
   justify-content: center;
   align-items: center;
 
+
 }
+
+
+
 
 img {
 
